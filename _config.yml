@@ -8,7 +8,7 @@ middle_name:
 last_name: Guttmann-Flury
 email: eva.guttmann.flury@gmail.com
 keywords: Brain-Computer Interface (BCI), Electroencephalography (EEG), Artifact removal, Sample size calculation, Source Localization # add your own keywords or leave empty
-icon: brain_icon2.png # 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: brain_icon3.png # 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://qinxinlan.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
