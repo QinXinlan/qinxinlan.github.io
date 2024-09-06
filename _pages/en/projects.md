@@ -17,13 +17,13 @@ children:
     permalink: /projects/1_project/
   - title: divider
   - title: Algorithms
-    permalink: /2_project/
+    permalink: /projects/2_project/
   - title: divider
   - title: Variability
-    permalink: /3_project/
+    permalink: /projects/3_project/
   - title: divider
   - title: Statistics
-    permalink: /4_project/
+    permalink: /projects/4_project/
 ---
 
 
