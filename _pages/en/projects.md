@@ -14,7 +14,7 @@ children:
     permalink: /projects/
   - title: divider
   - title: Blinks
-    permalink: /1_project/
+    permalink: /_projects/en/1_project/
   - title: divider
   - title: Algorithms
     permalink: /2_project/
