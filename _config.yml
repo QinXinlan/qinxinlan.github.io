@@ -231,18 +231,18 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/en-us/about_einstein.md
-  - _pages/zh-cn/about_einstein.md
-  - _pages/en-us/blog.md
-  - _pages/zh-cn/blog.md
-  - _pages/en-us/repositories.md
-  - _pages/zh-cn/repositories.md
-  - _pages/en-us/teaching.md
-  - _pages/zh-cn/teaching.md
-  - _pages/en-us/profiles.md
-  - _pages/zh-cn/profiles.md
-  - _pages/en-us/dropdown.md
-  - _pages/zh-cn/dropdown.md
+  - _pages/en/about_einstein.md
+  - _pages/zh/about_einstein.md
+  - _pages/en/blog.md
+  - _pages/zh/blog.md
+  - _pages/en/repositories.md
+  - _pages/zh/repositories.md
+  - _pages/en/teaching.md
+  - _pages/zh/teaching.md
+  - _pages/en/profiles.md
+  - _pages/zh/profiles.md
+  - _pages/en/dropdown.md
+  - _pages/zh/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -396,8 +396,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "zh-cn"]
-default_lang: "en-us"
+languages: ["en", "zh"]
+default_lang: "en"
 exclude_from_localization: ["assets"]
 lang_from_path: true
 country_flag: false # set true for allowing flag symbol in language toggle
