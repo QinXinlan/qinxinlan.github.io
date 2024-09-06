@@ -1,13 +1,29 @@
 ---
 page_id: projects
 layout: page
-title: Overview
+title: Projects # Overview
 permalink: /projects/
 description: One Few Over the Projects' Nest
 nav: false # true
-# nav_order: 3
+nav_order: 3
 horizontal: false
 # display_categories: [work, fun]
+dropdown: true
+children:
+  - title: Overview
+    permalink: /projects/
+  - title: divider
+  - title: Blinks
+    permalink: /1_project/
+  - title: divider
+  - title: Algorithms
+    permalink: /2_project/
+  - title: divider
+  - title: Variability
+    permalink: /3_project/
+  - title: divider
+  - title: Statistics
+    permalink: /4_project/
 ---
 
 
