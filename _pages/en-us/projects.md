@@ -1,14 +1,28 @@
 ---
 page_id: projects
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: One Few Over the Projects' Nest
 nav: true
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
+children:
+  - title: Blinks
+    permalink: /1_project/
+  - title: divider
+  - title: Algorithms
+    permalink: /2_project/
+  - title: divider
+  - title: Variability
+    permalink: /3_project/
+  - title: divider
+  - title: Statistics
+    permalink: /4_project/
 ---
+
+blablabla
 
 <!-- pages/projects.md -->
 <div class="projects">
