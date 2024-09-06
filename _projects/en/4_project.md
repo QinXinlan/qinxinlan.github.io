@@ -1,7 +1,7 @@
 ---
 page_id: project_4
 layout: page
-title: project 4
+title: Statistics
 description: another without an image
 img:
 importance: 3

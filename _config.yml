@@ -241,8 +241,13 @@ exclude:
   - _pages/zh/teaching.md
   - _pages/en/profiles.md
   - _pages/zh/profiles.md
-#  - _pages/en/dropdown.md
-#  - _pages/zh/dropdown.md
+  - _projects/en/5_project.md
+  - _projects/zh/5_project.md
+  - _projects/en/6_project.md
+  - _projects/zh/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
   - purgecss.config.js
   - README.md
   - readme_preview/
