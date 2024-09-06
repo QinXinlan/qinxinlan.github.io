@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoc in Shanghai Jiaotong University # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 

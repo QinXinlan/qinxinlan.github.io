@@ -239,10 +239,10 @@ exclude:
   - _pages/zh-cn/repositories.md
   - _pages/en-us/teaching.md
   - _pages/zh-cn/teaching.md
-  - _pages/en-us/people.md
-  - _pages/zh-cn/people.md
-  - _pages/en-us/projects.md
-  - _pages/zh-cn/projects.md
+  - _pages/en-us/profiles.md
+  - _pages/zh-cn/profiles.md
+  - _pages/en-us/dropdown.md
+  - _pages/zh-cn/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
