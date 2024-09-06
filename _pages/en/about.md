@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: About
 permalink: /
-subtitle: Postdoc in Shanghai Jiaotong University - Brain-Computer Interface (BCI) researcher # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Brain-Computer Interface (BCI) researcher - Postdoc in Shanghai Jiaotong University # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
