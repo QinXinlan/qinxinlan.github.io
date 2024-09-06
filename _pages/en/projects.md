@@ -4,12 +4,11 @@ layout: page
 title: Overview
 permalink: /projects/
 description: One Few Over the Projects' Nest
-nav: true
-nav_order: 3
+nav: false # true
+# nav_order: 3
 horizontal: false
+# display_categories: [work, fun]
 ---
-
-<!-- display_categories: [work, fun]  -->
 
 
 blablabla

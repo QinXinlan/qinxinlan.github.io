@@ -241,8 +241,8 @@ exclude:
   - _pages/zh/teaching.md
   - _pages/en/profiles.md
   - _pages/zh/profiles.md
-  - _pages/en/dropdown.md
-  - _pages/zh/dropdown.md
+#  - _pages/en/dropdown.md
+#  - _pages/zh/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -645,10 +645,10 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume_en-us
-    json: assets/json/resume_en-us.json # it can also be an url
+  - data: resume_en
+    json: assets/json/resume_en.json # it can also be an url
   - data: resume_zh-cn
-    json: assets/json/resume_zh-cn.json # it can also be an url
+    json: assets/json/resume_zh.json # it can also be an url
 jsonresume:
   - basics
   - work
