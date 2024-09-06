@@ -6,8 +6,8 @@ permalink: /projects/
 description: One Few Over the Projects' Nest
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
+dropdown: true
 children:
   - title: Blinks
     permalink: /1_project/
@@ -21,6 +21,9 @@ children:
   - title: Statistics
     permalink: /4_project/
 ---
+
+<!-- display_categories: [work, fun]  -->
+
 
 blablabla
 
