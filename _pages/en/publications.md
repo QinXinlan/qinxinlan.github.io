@@ -1,6 +1,6 @@
 ---
 page_id: publications
-layout: about # page
+layout: page-descript
 permalink: /publications/
 title: Publications
 description: Much Ado About Publications
@@ -23,3 +23,5 @@ nav_order: 2
 ---
 
 ## My Thesis
+
+blabla
