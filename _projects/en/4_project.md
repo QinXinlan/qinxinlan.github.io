@@ -3,7 +3,7 @@ page_id: project_4
 layout: page
 title: Statistics
 description: An unerring compass guiding towards the truth
-img: assets/img/4.jpg
+img: assets/img/statistical_significance.jpg
 importance: 3
 category: work
 related_publications: true
