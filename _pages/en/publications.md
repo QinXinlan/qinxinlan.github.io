@@ -1,9 +1,9 @@
 ---
 page_id: publications
-layout: page
+layout: about # page
 permalink: /publications/
-title: Much Ado About Publications # Publications
-description: # Much Ado About Publications
+title: Publications
+description: Much Ado About Publications
 nav: true
 nav_order: 2
 ---
