@@ -2,8 +2,8 @@
 page_id: publications
 layout: page
 permalink: /publications/
-title: Publications
-description: Much Ado About Publications
+title: Much Ado About Publications # Publications
+description: # Much Ado About Publications
 nav: true
 nav_order: 2
 ---
@@ -19,3 +19,7 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+---
+
+## My Thesis
