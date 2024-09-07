@@ -36,17 +36,17 @@ My academic focus centers on developing adaptive algorithms designed to address 
 Rigorously choosing each step in pipelines is crucial ifor determining the most effective strategies and methodologies to achieve generalizable results. With that in mind, let's begin by asking a few questions:
 
 
-### 👀 Why are blinks noise for EEG signals? 👀
+### 👀 Are blinks only noise for EEG signals? 👀
 Yes, they are bigger than the background EEG. And yes, they are frequent. But should they be discarded?
 
 ### 🤖 Why choose this XX algorithm? 🤖
 There are tons of available methods. Which one is best for pre-processing / filtering / classification / (any step of the pipeline)?
 
 ### ⚡ Why is the brain activity so different from one day to the other? ⚡
-Sure, there is neuroplasticity. But there should be some kind of stability in brain regions for a specific task and individual, right?
+Sure, there are various physiological states / cognitive loads / environmental contexts / (any other dynamics). But there should be some kind of stability in brain regions for a specific task and individual, right?
 
 ### 🔎 How accurate is this XX result? 🔎
-Pipeline A reaches 90% accuracy and pipeline B achieves 92% accuracy. Surely, pipeline B is better?
+Pipeline A reaches 90% accuracy and pipeline B achieves 92% accuracy. Is the difference significant?
 
 
 ---
