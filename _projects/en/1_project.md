@@ -3,7 +3,7 @@ page_id: project_1
 layout: page
 title: Blinks
 description: A pulsar for EEG signals
-img: assets/img/publication_preview/brownian-motion.gif
+img: assets/img/white_blink.jpg
 importance: 1
 category: work
 related_publications: true

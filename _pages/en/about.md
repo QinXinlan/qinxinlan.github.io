@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-✨ Long-Term Research Agenda ✨
+## ✨ Long-Term Research Agenda ✨
 Personally use a non-invasive BCI in real-world situations
 
 Why? 
@@ -29,7 +29,9 @@ Everyone may encounter challenges at some point in their life, whether due to an
 How?
 By unraveling the intricacies of the brain through the development of advanced parameterized algorithms based on solid mathematical foundations.
 
-🤝 Let's connect 🤝
+---
+
+## 🤝 Let's connect 🤝
 Want to colab or just talk? Don't hesitate to contact me at eva [dot] guttmann [dot] flury [at] gmail [dot] com
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. 
