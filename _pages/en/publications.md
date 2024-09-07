@@ -1,11 +1,12 @@
 ---
 page_id: publications
-layout: page-descript
+layout: page-descript # page 
 permalink: /publications/
 title: Publications
 description: Much Ado About Publications
 nav: true
 nav_order: 2
+display_categories: [work, fun]
 ---
 
 <!-- _pages/publications.md -->

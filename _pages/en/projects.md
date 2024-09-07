@@ -1,6 +1,6 @@
 ---
 page_id: projects
-layout: page
+layout: page-descript # page
 title: Projects # Overview
 permalink: /projects/
 description: One Few Over the Projects' Nest
@@ -27,7 +27,7 @@ children:
 ---
 
 
-## Philosophy
+## 💡 Philosophy 💡
 
 Scientific inquiry should be systematic, comprehensive, and adaptable to the complexities and uncertainties inherent in neuroscience.
 
