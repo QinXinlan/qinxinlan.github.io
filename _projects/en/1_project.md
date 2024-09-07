@@ -9,11 +9,24 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Every blink is different.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Of course, your blinks will be different from your friends / family / some random person in the street. But also, every <b> spontaneous </b> blink you make will be different.
+
+How so?
+Because everytime you close your upper eyelid spontaneously, it doesn't need to go all the way down to lubricate your eyeball, or pause your attention. So it just doesn't. The upper eyelid is lazy like this.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/brownian-motion.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Laurel and Hardy of blinks
+</div>
+
+Also, quick side note for the Bell's fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals is mostly caused by the muscular activity related to the upper eyelid movement [<a href="https://getbootstrap.com/docs/4.4/layout/grid/">1</a>,  <a href="https://getbootstrap.com/docs/4.4/layout/grid/">2</a>].
+
 
     ---
     layout: page
@@ -36,14 +49,7 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/brownian-motion.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
