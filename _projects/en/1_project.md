@@ -11,10 +11,13 @@ related_publications: true
 
 ## Every blink is different.
 
-Of course, your blinks will be different from your friends / family / some random person in the street. But also, every <b> spontaneous </b> blink you make will be different.
+Of course, your blinks will differ from those of your friends, family, or a stranger on the street. But more importantly, each spontaneous blink you make is unique.
 
 How so?
-Because everytime you close your upper eyelid spontaneously, it doesn't need to go all the way down to lubricate your eyeball, or pause your attention. So it just doesn't. The upper eyelid is lazy like this.
+
+Because every time you spontaneously close your eyes, the upper eyelid doesn't need to fully descend to lubricate your eyeball or pause your attention. So it just doesn't. 
+
+The upper eyelid is lazy like this.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,7 +28,7 @@ Because everytime you close your upper eyelid spontaneously, it doesn't need to 
     Laurel and Hardy of blinks
 </div>
 
-Also, quick side note for the Bell's fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals is mostly caused by the muscular activity related to the upper eyelid movement [<a href="https://getbootstrap.com/docs/4.4/layout/grid/">1</a>,  <a href="https://getbootstrap.com/docs/4.4/layout/grid/">2</a>].
+Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [<a href="https://getbootstrap.com/docs/4.4/layout/grid/">1</a>,  <a href="https://getbootstrap.com/docs/4.4/layout/grid/">2</a>].
 
 
     ---
@@ -51,7 +54,7 @@ Also, quick side note for the Bell's fans out there. If you don't press your eye
 </div>
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+You can also put regular text between your rows of images, even citations {% cite guttmannflury2022css %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
