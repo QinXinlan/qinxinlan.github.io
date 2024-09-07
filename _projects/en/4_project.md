@@ -2,7 +2,7 @@
 page_id: project_4
 layout: page
 title: Statistics
-description: another without an image
+description: An unerring compass guiding towards the truth
 img: assets/img/4.jpg
 importance: 3
 category: work

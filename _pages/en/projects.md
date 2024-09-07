@@ -27,10 +27,11 @@ children:
 ---
 
 
-Philosophy
+## Philosophy
 
 Scientific inquiry should be systematic, comprehensive, and adaptable to the complexities and uncertainties inherent in neuroscience.
 
+---
 
 <!-- pages/projects.md -->
 <div class="projects">

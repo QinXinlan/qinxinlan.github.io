@@ -2,7 +2,7 @@
 page_id: project_3
 layout: page
 title: Variability
-description: a project with a background image and giscus comments
+description: A certainty as elusive as a fleeting shadow
 img: assets/img/3.jpg
 importance: 2
 category: work
