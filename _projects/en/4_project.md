@@ -3,9 +3,10 @@ page_id: project_4
 layout: page
 title: Statistics
 description: another without an image
-img:
+img: assets/img/4.jpg
 importance: 3
-category: fun
+category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
