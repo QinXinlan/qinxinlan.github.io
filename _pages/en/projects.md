@@ -29,21 +29,24 @@ children:
 
 ## 💡 Philosophy 💡
 
-Scientific inquiry should be systematic, comprehensive, and adaptable to the complexities and uncertainties inherent to science, and especially neuroscience. 
+Scientific inquiry should be systematic, comprehensive, and adaptable to the complexities and uncertainties inherent to science, particularly in neuroscience. 
 
-At the core of my academic focus lies the development of adaptive algorithms capable of mitigating the substantial variability inherent in neuroimaging - and specifically electroencephalography (EEG) - recordings, both within individuals and across subjects. I believe that achieving a high precision rate requires a multi-modal strategy integrating diverse data modalities, including neuroelectromagnetic, physiological, behavioral, and muscular activity, alongside external environmental factors, to gradually accumulate insights from this amalgamation of information sources. 
+My academic focus centers on developing adaptive algorithms designed to address the significant variability present in neuroimaging data — especially electroencephalography (EEG) recordings — both within individuals and across subjects. I believe that achieving a high precision rate requires a multi-modal approach integrating various data modalities, including neuroelectromagnetic, physiological, behavioral, and muscular activity, alongside external environmental factors. This thorough approach allows to progressively build insights from the amalgamation of these diverse information sources.
 
-Rigorously choosing each step in pipelines is crucial in determining the most suitable strategies and methodologies for achieving generalizable results. Let's start by asking a few questions:
+Rigorously choosing each step in pipelines is crucial ifor determining the most effective strategies and methodologies to achieve generalizable results. With that in mind, let's begin by asking a few questions:
 
 
-👀 Why are blinks noise for EEG signals? 👀
+### 👀 Why are blinks noise for EEG signals? 👀
+Yes, they are bigger than the background EEG. And yes, they are frequent. But should they be discarded?
 
-🤖 Why choose this XX algorithm? 🤖
+### 🤖 Why choose this XX algorithm? 🤖
+There are tons of available methods. Which one is best for pre-processing / filtering / classification / (some step of the pipeline)?
 
-⚡ Why is the brain activity for a specific task and a specific individual so different from one day to the other? ⚡
+### ⚡ Why is the brain activity for a specific task and a specific individual so different from one day to the other? ⚡
+Sure, there is neuroplasticity. But there should be some kind of brain region stability, right?
 
-🔎 How accurate is this XX result? 🔎
-
+### 🔎 How accurate is this XX result? 🔎
+Pipeline A reaches 90% accuracy and pipeline B achieves 92% accuracy. Surely, pipeline B is better?
 
 
 ---
