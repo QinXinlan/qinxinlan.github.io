@@ -20,9 +20,3 @@ display_categories: [work, fun]
 {% bibliography %}
 
 </div>
-
----
-
-## My Thesis
-
-blabla
