@@ -29,7 +29,22 @@ children:
 
 ## 💡 Philosophy 💡
 
-Scientific inquiry should be systematic, comprehensive, and adaptable to the complexities and uncertainties inherent in neuroscience.
+Scientific inquiry should be systematic, comprehensive, and adaptable to the complexities and uncertainties inherent to science, and especially neuroscience. 
+
+At the core of my academic focus lies the development of adaptive algorithms capable of mitigating the substantial variability inherent in neuroimaging - and specifically electroencephalography (EEG) - recordings, both within individuals and across subjects. I believe that achieving a high precision rate requires a multi-modal strategy integrating diverse data modalities, including neuroelectromagnetic, physiological, behavioral, and muscular activity, alongside external environmental factors, to gradually accumulate insights from this amalgamation of information sources. 
+
+Rigorously choosing each step in pipelines is crucial in determining the most suitable strategies and methodologies for achieving generalizable results. Let's start by asking a few questions:
+
+
+👀 Why are blinks noise for EEG signals? 👀
+
+🤖 Why choose this XX algorithm? 🤖
+
+⚡ Why is the brain activity for a specific task and a specific individual so different from one day to the other? ⚡
+
+🔎 How accurate is this XX result? 🔎
+
+
 
 ---
 
