@@ -3,7 +3,7 @@ page_id: project_3
 layout: page
 title: Variability
 description: A certainty as elusive as a fleeting shadow
-img: assets/img/3.jpg
+img: assets/img/BCI.jpg
 importance: 2
 category: work
 # giscus_comments: true

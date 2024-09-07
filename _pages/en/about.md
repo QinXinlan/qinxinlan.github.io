@@ -23,19 +23,16 @@ social: true # includes social icons at the bottom of the page
 ## ✨ Long-Term Research Agenda ✨
 Personally use a non-invasive BCI in real-world situations
 
----
 
-## Why? 
+# Why? 
 Everyone may encounter challenges at some point in their life, whether due to an accident, a disease, memory loss, or even lack of sleep. My research aims to provide solutions that can significantly enhance quality of life.
 
----
 
-## How?
+# How?
 By unraveling the intricacies of the brain through the development of advanced parameterized algorithms based on solid mathematical foundations.
 
----
 
-## 🤝 Let's connect 🤝
+# 🤝 Let's connect 🤝
 Want to colab or just talk? Don't hesitate to contact me at eva [dot] guttmann [dot] flury [at] gmail [dot] com
 ---
 
