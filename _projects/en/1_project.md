@@ -36,7 +36,7 @@ Also, quick side note for the Bell's phenomenon fans out there. If you don't pre
 
 Well, thanks Sherlock. How is that of interest?
 
-Because we know how a blink _should_ propagate, with a smooth and gradual attenuation from the frontal electrodes (closest to the eyes) to the occipital electrodes. When this pattern deviates, we can identify a faulty electrode. 
+Because we know how a blink _should_  propagate, with a smooth and gradual attenuation from the frontal electrodes (closest to the eyes) to the occipital electrodes. When this pattern deviates, we can identify a faulty electrode (the orange one). 
 
 
 <div class="row justify-content-sm-center">
@@ -62,16 +62,22 @@ Can we use blinks to identify people?
 Probably. The characteristics of blink propagation seem like a good starting point.
 
 
-### Why do you call a blink a pulsar?
+### Why call a blink a pulsar?
 
-With their easy to detect shape and well-known characteristics, blinks could serve a a calibration tool. One of the only signal that seem stable across sessions. 
+With their easy-to-detect shape and well-known characteristics, blinks could serve as a calibration tool. They are one of the few signals that seem stable across sessions.
 
 
 ### What happens when something new appears during a blink?
 
-I'm guessing the brain goes "Aaaaaaaaaah". But more importantly, is _when_ is it processed? Just to be sure, we do not mistake it with another signal or task. 
+I'm guessing the brain goes "Aaaaaaaaaah". But more importantly, is _when_ is it processed? We need to be sure we don't mistake it for another signal or task.
 
 
-### Are there differences between blind and non-blind people?
+### Are there differences between blind and sighted people?
 
 Still only talking about blinks. 
+
+It would be reasonable to assume that the visual evoked potential after the eye reopens is not present for blind people. However, it could also be that the brain routinely checks the before versus after blink to ensure that a pesky lion did not suddenly appear from behind the bushes. 
+
+
+
+---
