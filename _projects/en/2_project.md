@@ -39,7 +39,7 @@ So far, the results I obtained rank in terms of accuracy for the following steps
 3. Civaruabce natrux
 
 - Classification:
-1. dual classifier [{% cite guttmannflury2023thesis %}]
+1. Dual classifier [{% cite guttmannflury2023thesis %}]
 2. LDA (Linear Discriminant Analysis)
 3. SVM (Support Vector Machine)
 4. TS (Tangent Space)
@@ -76,3 +76,4 @@ If the same results are obtained with EEG and fNIRS (functional Near-Infrared Sp
 ### Can SLST be used for diagnosis?
 SLST identifies recurrent brain sources across multiple trials for specific tasks. With a well-thought-out experiment, it might also be able to identify brain regions systematically activated by a specific disease.
 
+---
