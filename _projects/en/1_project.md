@@ -9,9 +9,9 @@ category: work
 related_publications: true
 ---
 
-# What we know
+## What we know
 
-## Every blink is different.
+### Every blink is different.
 
 Of course, your blinks will differ from those of your friends, family, or a stranger on the street. But more importantly, each spontaneous blink you make is unique.
 
@@ -31,6 +31,23 @@ The upper eyelid is lazy like this.
 </div>
 
 Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [{% cite IWASAKI2005878 %}, {% cite nakano2013blink %} ].
+
+### Your blinks propagate on your head.
+
+Well, thanks Sherlock. How is that of interest?
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/blink_propagation.jpg" title="Blink propagation" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/projects/bad_channel.png" title="Bad channel detection" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Using blink propagation to identify bad EEG channels.
+</div>
 
 
     ---
@@ -93,4 +110,4 @@ Here's the code for the last row of images above:
 {% endraw %}
 
 
-# What we don't know (yet)
+## What we don't know (yet)
