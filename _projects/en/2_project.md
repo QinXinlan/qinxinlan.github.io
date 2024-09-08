@@ -8,6 +8,7 @@ importance: 2
 category: work
 #giscus_comments: true
 related_publications: true
+bibliography: other_papers.bib
 ---
 
 

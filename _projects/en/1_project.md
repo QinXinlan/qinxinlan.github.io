@@ -7,6 +7,7 @@ img: assets/img/white_blink.jpg
 importance: 1
 category: work
 related_publications: true
+bibliography: other_papers.bib
 ---
 
 ## 🎓 What we know 🎓
@@ -81,3 +82,4 @@ It would be reasonable to assume that the visual evoked potential after the eye 
 
 
 ---
+
