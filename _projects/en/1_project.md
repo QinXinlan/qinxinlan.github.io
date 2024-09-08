@@ -14,7 +14,7 @@ bibliography: other_papers.bib
 
 ### Every blink is different
 
-Of course, your blinks will differ from those of your friends, family, or a stranger on the street. But more importantly, each spontaneous blink you make is unique.
+Of course, your blinks will differ from those of your friends, family, or a stranger on the street. But more importantly, each spontaneous blink you make is unique [{% cite guttmannflury2023thesis %}].
 
 How so?
 
@@ -31,7 +31,7 @@ The upper eyelid is lazy like this.
     Laurel and Hardy of blinks
 </div>
 
-Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [{% cite IWASAKI2005878 nakano2013blink %} ]. <d-cite key="IWASAKI2005878"></d-cite>
+Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [<a href="https://doi.org/10.1016/j.clinph.2004.11.001">1</a>，<a href="https://doi.org/10.1073/pnas.1214804110">2</a>]
 
 ### Your blinks propagate on your head
 

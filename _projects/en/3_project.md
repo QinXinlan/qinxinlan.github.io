@@ -11,13 +11,17 @@ related_publications: true
 ---
 
 
-## 🎓 What we know 🎓
+## 🎓 What we (kind of) know 🎓
 
 ### Even your variability is variable
 
+From one session to the next, the recurrent brain activation patterns are completely different. 
+
+Is it caused by the hardware? The noise approximation? Changes in your brain activity? 
 
 
+## 🤔 What we don't know (for sure) 🤔
 
-## 🤔 What we don't know (yet) 🤔
+### How to quantify the inter-session variability on the long term
 
-### 
+EEG studies on the long term (same subjects recorded doing the same task over the span of several years) are quasi inexistant. 
