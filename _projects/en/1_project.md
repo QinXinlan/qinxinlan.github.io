@@ -31,7 +31,7 @@ The upper eyelid is lazy like this.
     Laurel and Hardy of blinks
 </div>
 
-Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [{% cite IWASAKI2005878 %}, {% cite nakano2013blink %} ].
+Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [{% cite IWASAKI2005878 nakano2013blink %} ].
 
 ### Your blinks propagate on your head
 

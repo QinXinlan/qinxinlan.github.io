@@ -8,7 +8,6 @@ importance: 2
 category: work
 #giscus_comments: true
 related_publications: true
-bibliography: other_papers.bib
 ---
 
 
@@ -20,7 +19,7 @@ So many algorithms, so little time.
 
 So far, the results I obtained rank in terms of accuracy for the following steps in the pipeline: 
 - Blink correction:
-1. ABCD (Adaptive Blink Correction and De-drifting) [{% cite guttmannflury2023thesis %}, {% cite guttmannflury2019abc %}, {% cite guttmannflury2019prabc %}  ]
+1. ABCD (Adaptive Blink Correction and De-drifting) [{% cite guttmannflury2023thesis guttmannflury2019abc guttmannflury2019prabc %}  ]
 2. ASR (Artifact Subspace Reconstruction)
 3. ICA (Independent Component Analysis)
 
