@@ -9,6 +9,8 @@ category: work
 related_publications: true
 ---
 
+# What we know
+
 ## Every blink is different.
 
 Of course, your blinks will differ from those of your friends, family, or a stranger on the street. But more importantly, each spontaneous blink you make is unique.
@@ -28,7 +30,7 @@ The upper eyelid is lazy like this.
     Laurel and Hardy of blinks
 </div>
 
-Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [{% cite IWASAKI2005878 %},  <a href="https://getbootstrap.com/docs/4.4/layout/grid/">2</a>].
+Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [{% cite IWASAKI2005878 %}, {% cite nakano2013blink %} ].
 
 
     ---
@@ -54,7 +56,7 @@ Also, quick side note for the Bell's phenomenon fans out there. If you don't pre
 </div>
 
 
-You can also put regular text between your rows of images, even citations {% cite guttmannflury2022css %}.
+You can also put regular text between your rows of images, even citations .
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
@@ -89,3 +91,6 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+
+# What we don't know (yet)
