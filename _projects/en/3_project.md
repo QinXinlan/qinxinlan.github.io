@@ -17,11 +17,17 @@ related_publications: true
 
 From one session to the next, the recurrent brain activation patterns are completely different. 
 
-Is it caused by the hardware? The noise approximation? Changes in your brain activity? 
+Is it caused by the hardware? The noise approximation? Changes in your brain activity? All of the above?
 
+intra-s
+
+
+---
 
 ## 🤔 What we don't know (for sure) 🤔
 
 ### How to quantify the inter-session variability on the long term
 
 EEG studies on the long term (same subjects recorded doing the same task over the span of several years) are quasi inexistant. 
+
+---

@@ -16,11 +16,11 @@ bibliography: other_papers.bib
 
 Of course, your blinks will differ from those of your friends, family, or a stranger on the street. But more importantly, each spontaneous blink you make is unique [{% cite guttmannflury2023thesis %}].
 
-How so?
+Why is that?
 
-Because every time you spontaneously close your eyes, the upper eyelid doesn't need to fully descend to lubricate your eyeball or pause your attention. So it just doesn't. 
+Every time you spontaneously close your eyes, the upper eyelid doesn’t always need to fully close to lubricate the eye or to give your brain a quick break — so it often doesn’t. 
 
-The upper eyelid is lazy like this.
+The upper eyelid is lazy like that.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,13 +31,14 @@ The upper eyelid is lazy like this.
     Laurel and Hardy of blinks
 </div>
 
-Also, quick side note for the Bell's phenomenon fans out there. If you don't press your eyeball with your finger when blinking, it won't move. The effects of blinks in EEG signals are primarily caused by the muscular activity associated with the movement of the upper eyelid [<a href="https://doi.org/10.1016/j.clinph.2004.11.001">1</a>，<a href="https://doi.org/10.1073/pnas.1214804110">2</a>]
+Also, quick side note for the Bell's phenomenon fans out there. Unless you press on your eyeball while blinking, it won't move [<a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1823.0017">1</a>，<a href="https://link.springer.com/article/10.1007/BF00154383">2</a>]. The effects of spontaneous blinks in EEG signals are mostly due to the muscle activity of the upper eyelid [<a href="https://doi.org/10.1016/j.clinph.2004.11.001">3</a>，<a href="https://doi.org/10.1073/pnas.1214804110">4</a>].
+
 
 ### Your blinks propagate on your head
 
-Well, thanks Sherlock. How is that of interest?
+Well, thanks Captain Obvious. Why does it matter?
 
-Because we know how a blink _should_  propagate, with a smooth and gradual attenuation from the frontal electrodes (closest to the eyes) to the occipital electrodes. When this pattern deviates, we can identify a faulty electrode (the orange one). 
+A blink typically propagates smoothly, with signals gradually attenuating from the frontal electrodes (near the eyes) to the occipital electrodes. If this pattern deviates, we can use it to detect faulty electrodes (hint: the orange one on the picture).
 
 
 <div class="row justify-content-sm-center">
@@ -53,31 +54,38 @@ Because we know how a blink _should_  propagate, with a smooth and gradual atten
 </div>
 
 
+### Blinks happen more often than they should
+
+You probably have _not_ noticed that you are blinking at strategic moments [<a href="https://www.frontiersin.org/articles/10.3389/fnsys.2023.1242654/pdf">5</a>]. This behavior adjusts according to what you’re doing and your emotional state. For instance, when reading, you are more likely to blink at the end of a sentence or while turing a page. And perhaps counter-intuitevely, during conversations,  blink patterns don’t differ between sighted and congenitally blind people [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC510520/pdf/brjopthal00688-0001.pdf">6</a>]. 
+
+
+
+---
 
 ## 🤔 What we don't know (yet) 🤔
 
 ### Is it _your_ head?
 
-Can we use blinks to identify people? 
+Can we use blinks to identify people? Link a "blinkprint".
 
 Probably. The characteristics of blink propagation seem like a good starting point.
 
 
-### Why call a blink a pulsar?
+### Why refer to a blink a a "pulsar"?
 
-With their easy-to-detect shape and well-known characteristics, blinks could serve as a calibration tool. They are one of the few signals that seem stable across sessions.
+Blinks have a distinctive, easy-to-detect shape and consistent characteristics, making them a potential tool for calibration. They're one of the few signals in the EEG that remain stable across sessions.
 
 
 ### What happens when something new appears during a blink?
 
-I'm guessing the brain goes "Aaaaaaaaaah". But more importantly, is _when_ is it processed? We need to be sure we don't mistake it for another signal or task.
+I'm guessing the brain goes "Aaaaaaaaaah". But more importantly, _when_ does it process that new information? We need to understand this to avoid mistaking it for another signal or task.
 
 
 ### Are there differences between blind and sighted people?
 
 Still only talking about blinks. 
 
-It would be reasonable to assume that the visual evoked potential after the eye reopens is not present for blind people. However, it could also be that the brain routinely checks the before versus after blink to ensure that a pesky lion did not suddenly appear from behind the bushes. 
+It would be reasonable to assume that the visual evoked potential after the eye reopens is not present for blind people. However, the brain might be performing a "before-and-after" check with each blink, as if to make sure nothing unexpected — like a lurking predator — has appeared. If that’s the case, we might actually be detecting a "memory evoked potential," which could also occur in blind individuals.
 
 
 

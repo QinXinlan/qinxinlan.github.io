@@ -17,7 +17,7 @@ related_publications: true
 
 So many algorithms, so little time. 
 
-So far, the results I obtained rank in terms of accuracy for the following steps in the pipeline: 
+So far, the results _I_ obtained rank in terms of accuracy for the following steps in the pipeline (with a top accuracy of ~94% on my dataset % cite guttmannflury2024dataset): 
 - Blink correction:
 1. ABCD (Adaptive Blink Correction and De-drifting) [{% cite guttmannflury2023thesis guttmannflury2019abc guttmannflury2019prabc %}  ]
 2. ASR (Artifact Subspace Reconstruction)
@@ -36,7 +36,7 @@ So far, the results I obtained rank in terms of accuracy for the following steps
 - Feature extraction:
 1. SLST (Source Localized Spatio-Temporal) [{% cite guttmannflury2023thesis %}]
 2. CSP (Common Spatial Pattern)
-3. Civaruabce natrux
+3. Covariance matrix
 
 - Classification:
 1. Dual classifier [{% cite guttmannflury2023thesis %}]
@@ -45,7 +45,7 @@ So far, the results I obtained rank in terms of accuracy for the following steps
 4. TS (Tangent Space)
 5. MDRM (Minimum Distance to Riemannian Mean)
 
-There are many more to test.
+There are many more to test. And more importantly, why one is better than the other in a given context?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -59,21 +59,26 @@ There are many more to test.
 ### Timing is everything
 If you are playing "Where's Waldo" with 2000 people, he will be harder to spot than if you are only playing with 2 people.
 
-The same principle applies to the analysis of brain signals related to a specific task. Trying to extract meaningful brain information from long time intervals (> 200 ms) will be challenging and likely yield unsatisfactory results.
+ The same idea applies to analyzing brain signals related to specific tasks. Extracting meaningful brain information from long time intervals (over 200 ms) can be like searching for a needle in a haystack.
 
+The signal of interest (SOI) is often smaller than the background noise. That's why we need to try to precisely target _when_ the SOI is supposed to happen. Essentially, we are searching for time-adaptive repeated patterns (within some variability), meaning Event-Related Potentials (ERP) that may have specific functional and spectral characteristics. It seems reasonable to assume that several brain regions will be activated by a task, and probably at different times.
 
+---
 
 ## 🤔 What we don't know (yet) 🤔
 
-### Which combination is the best?
-A systematic analysis (or even better, a meta-analysis) of every possible combination will help identify (1) every step of the pipeline and (2) which ones give similar results with other recording modalities.
+### What’s the Best Combination?
+A systematic analysis — or even better, a meta-analysis — of all possible combinations will help identify 
+(1) every step of the pipeline
+(2) which ones give similar results across different recording modalities
+(3) _why_ a given combination performs better than another.
 
 ### Is source localization the real truth?
 Yay for multi-modal brain signals analysis! 
 
-If the same results are obtained with EEG and fNIRS (functional Near-Infrared Spectroscopy) or MEG (magnetoencephalography), then they are more likely to have been adequately processed by whatever methods were enforced.
+If we can achieve consistent results using different modalities like EEG, fNIRS (functional Near-Infrared Spectroscopy), or MEG (magnetoencephalography), it’s more likely that the methods used have identified and processed the signals correctly.
 
 ### Can SLST be used for diagnosis?
-SLST identifies recurrent brain sources across multiple trials for specific tasks. With a well-thought-out experiment, it might also be able to identify brain regions systematically activated by a specific disease.
+SLST identifies recurrent brain patterns across multiple trials for specific tasks. With a well-thought-out experiment,  it could potentially identify brain regions or patterns that are consistently activated by specific diseases.
 
 ---
