@@ -75,38 +75,38 @@
   ],
   "education": [
     {
-      "institution": "IMT Atlantique",
-      "area": "Control Engineering and Industrial Information Technology",
-      "studyType": "Master’s Degree - Mines de Nantes",
-      "startDate": "2010-12-31",
-      "endDate": "2013-12-31",
-      "score": "",
-      "courses": []
-    },
-    {
       "institution": "Shanghai Jiao Tong University",
       "area": "Computational Cognitive Neuroscience (Biomechanics)",
       "studyType": "Doctor of Philosophy (Ph.D.)",
-      "startDate": "2013-12-31",
-      "endDate": "2016-12-31",
+      "startDate": "2013-09-01",
+      "endDate": "2016-07-31",
       "score": "",
-      "courses": []
+      "courses": ["Data Mining", "Advanced Signal Processing", "Advanced Statistics", "New frontiers in Biomechatronics"]
     },
+    {
+      "institution": "IMT Atlantique",
+      "area": "Control Engineering and Industrial Information Technology",
+      "studyType": "Master’s Degree - Mines de Nantes",
+      "startDate": "2010-09-01",
+      "endDate": "2013-07-31",
+      "score": "",
+      "courses": ["Control theory", "Embedded system", "Robotics", "System modeling and control (active control of a robotic arm)", "Team work", "Project management", "Sociology"]
+    },    
     {
       "institution": "Lycée Jacques Decour",
       "area": "Preparation for national exams to leading French « Grandes Ecoles »",
       "studyType": "Bachelor’s Degree",
-      "startDate": "2007-12-31",
-      "endDate": "2010-12-31",
+      "startDate": "2007-09-01",
+      "endDate": "2010-07-31",
       "score": "",
-      "courses": []
+      "courses": ["Mathematics", "Physics", "Chemistry", "Engineering scienc"]
     },
     {
       "institution": "High school Huairou Hongluosi Zhongxue (北京市怀柔区红螺寺中学)",
       "area": "First year of high school in a Chinese school",
-      "studyType": "",
-      "startDate": "2004-12-31",
-      "endDate": "2005-12-31",
+      "studyType": "Cultural immersion program",
+      "startDate": "2004-09-31",
+      "endDate": "2005-07-31",
       "score": "",
       "courses": []
     }
@@ -181,6 +181,21 @@
       "url": "https://www.researchgate.net/publication/332110728_Characterize_Differences_between_Frustration_and_Contentment_to_Analyze_Errors_in_Brain-Computer_Interfaces?_sg=cqcHyPO93QeDOd6dhmQUUxlRR7AK5CEer6t4td4E7MDJvtseTriwWRcpcp8K90i4O0S35eqURIZPkOaTssPE_YZfagBa"
     }
   ], */
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
+    }
+  ],
 /*  "skills": [
   /*  {
       "name": "Research Skills",
