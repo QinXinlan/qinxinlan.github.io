@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Eva Guttmann-Flury",
-    "label": "PHD Researcher at Shanghai Jiao Tong University",
+    "label": "Postdoc Researcher at Shanghai Jiao Tong University",
     "image": "",
-    "email": "eva.flury@gmail.com",
+    "email": "eva.guttmann.flury@gmail.com",
     "phone": "",
     "url": "",
     "summary": "Deep interest in unraveling the intricacies of the brain through the development of advanced parameterized algorithms based on solid mathematical foundations. Bridging the realm of BCI with my other hobbies (Chinese culture and music) represents a captivating challenge.",
@@ -26,7 +26,7 @@
       "position": "PHD Researcher",
       "startDate": "2016-09-30",
       "endDate": "2023-11-30",
-      "highlights": [],
+      "highlights": ["Brain-Computer Interface", "Electroencephalography", "Signal processing", "Artifact correction", "Pattern recognition"],
       "summary": "Multimodal dataset for Brain-Computer Interface (BCI) application:\n- Large dataset (31 subjects, 63 sessions, >46 hours) combining electroencephalography (EEG), eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms\n- BCI paradigms investigated: Motor Imagery (MI), Motor Execution (ME), Steady-State Visual Evoked Potentials (SSVEP), and P300\n\nAlgorithms design:\n- Innovative and fast Adaptive Blink Correction and De-drifting (ABCD) for EEG pre-processing\n- New dual classifier based on Source Localized Spatio-Temporal (SLST) features and Riemannian geometry, reaching an accuracy of 94%\n\nMeta-analysis and statistical approaches:\n- A priori sample size estimation (both using an online-available dataset and a prospective power analysis)\n- Systematic review (21 studies) for channel selection from source localization \n- Improved quantitative and visual methods for accuracy estimation and confusion matrix representations\n\nPost-stroke rehabilitation:\n- Contributed to a project using TMS and BCI-controlled robotics with >3 health practitioners from Huashan Hospital and 4 subjects",
       "url": "https://www.linkedin.com/company/27413",
       "location": "Shanghai City, China"
@@ -137,7 +137,7 @@
       "startDate": "2012-07-31"
     }
   ],
-  "publications": [
+  /*"publications": [
     {
       "name": "Channel selection from source localization - A review of four EEG‑based brain–computer interfaces paradigms",
       "publisher": "Behavior Research Methods",
@@ -180,34 +180,34 @@
       "summary": "Current Brain-Computer Interfaces mostly use P300, Visual Evoked Potential, Slow Cortical Potential or Sensorimotor rhythms as control signals to provide a new non-muscular channel for communication and control to the external world. However, the recorded EEG signals are still weak, hard to acquire and of poor quality. These limitations result in an incompatible accuracy rate with real-life applications. To decrease the error rate while bounding the rate of false positives on a single-trial analysis, the subject’s frustration can be used as a neuro-feedback to detect errors. In this study, we try to characterize differences between frustration and contentment as a way to detect errors in order to enhance the accuracy rate and the usability of the P300 speller.",
       "url": "https://www.researchgate.net/publication/332110728_Characterize_Differences_between_Frustration_and_Contentment_to_Analyze_Errors_in_Brain-Computer_Interfaces?_sg=cqcHyPO93QeDOd6dhmQUUxlRR7AK5CEer6t4td4E7MDJvtseTriwWRcpcp8K90i4O0S35eqURIZPkOaTssPE_YZfagBa"
     }
-  ],
+  ], */
   "skills": [
-    {
+  /*  {
       "name": "Research Skills",
-      "level": "",
+      "level": "Advanced",
       "keywords": []
     },
     {
       "name": "Interdisciplinary Research",
       "level": "",
       "keywords": []
-    },
+    },*/
     {
       "name": "Mathematics",
+      "level": "Advanced",
+      "keywords": ["Statistics", "Calculus", "Linear Algebra"]
+    },
+    {
+ /*       "name": "Computer Science",
+      "level": "",
+      "keywords": ["Algorithms", "Software Development"]
+    },
+    {
+     "name": "Knowledge Acquisition",
       "level": "",
       "keywords": []
     },
-    {
-      "name": "Computer Science",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Knowledge Acquisition",
-      "level": "",
-      "keywords": []
-    },
-    {
+   {
       "name": "Chinese",
       "level": "",
       "keywords": []
@@ -221,38 +221,38 @@
       "name": "Mathematical Modeling",
       "level": "",
       "keywords": []
-    },
+    },*/
     {
       "name": "Data Analytics",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Data Mining", "Statistical Analysis", "Visualization"]
     },
     {
       "name": "Signal Processing",
-      "level": "",
-      "keywords": []
+      "level": "Intermediate",
+      "keywords": ["Filtering", "Fourier Transform", "Signal Analysis"]
     },
     {
       "name": "Datasets",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Data Collection", "Data Cleaning", "Data Management"]
     },
     {
       "name": "C#",
-      "level": "",
-      "keywords": []
+      "level": "Beginner",
+      "keywords": ["Experiment Design", "Object-Oriented Programming"]
     },
     {
       "name": "Analytical Skills",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Problem Solving", "Critical Thinking", "Data Interpretation"]
     },
     {
       "name": "Deep Learning",
-      "level": "",
-      "keywords": []
+      "level": "Intermediate",
+      "keywords": ["Neural Networks", "TensorFlow", "PyTorch"]
     },
-    {
+ /*   {
       "name": "SolidWorks",
       "level": "",
       "keywords": []
@@ -271,14 +271,14 @@
       "name": "Topological Data Analysis",
       "level": "",
       "keywords": []
-    },
+    },*/
     {
       "name": "Machine Learning",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Recurrent patterns identification" ,"Supervised Learning", "Unsupervised Learning"]
     },
     {
-      "name": "Programming",
+/*      "name": "Programming",
       "level": "",
       "keywords": []
     },
@@ -294,12 +294,12 @@
     },
     {
       "name": "Cognitive Neuroscience",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Brain Function", "Cognitive Processes", "Neuroimaging"]
     },
     {
       "name": "Statistical Modeling",
-      "level": "",
+      "level": "Advanced",
       "keywords": []
     },
     {
@@ -316,16 +316,16 @@
       "name": "Computational Neuroscience",
       "level": "",
       "keywords": []
-    },
+    },*/
     {
       "name": "Methodology",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Research Design", "Data Collection", "Analysis Techniques"]
     },
     {
       "name": "Python (Programming Language)",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Data Science", "Automation", "MNE" ]
     },
     {
       "name": "Project Management",
@@ -333,7 +333,7 @@
       "keywords": []
     },
     {
-      "name": "Statistics",
+/*      "name": "Statistics",
       "level": "",
       "keywords": []
     },
@@ -346,13 +346,13 @@
       "name": "Big Data Analytics",
       "level": "",
       "keywords": []
-    },
+    },*/
     {
       "name": "Artificial Intelligence (AI)",
-      "level": "",
-      "keywords": []
+      "level": "Intermediate",
+      "keywords": ["Machine Learning", "Natural Language Processing", "Computer Vision"]
     },
-    {
+/*    {
       "name": "STEM",
       "level": "",
       "keywords": []
@@ -361,25 +361,25 @@
       "name": "Neuroscience",
       "level": "",
       "keywords": []
-    },
+    },*/
     {
       "name": "Matlab",
-      "level": "",
-      "keywords": []
+      "level": "Intermediate",
+      "keywords": ["Data Analysis", "Simulation", "Algorithm Development"]
     },
     {
       "name": "R",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": ["Statistical Analysis", "Data Visualization", "Machine Learning"]
     }
   ],
   "languages": [
     {
-      "fluency": "Professional Working",
+      "fluency": "Professional Working (C2)",
       "language": "Chinese"
     },
     {
-      "fluency": "Full Professional",
+      "fluency": "Full Professional (C1)",
       "language": "English"
     },
     {
@@ -391,7 +391,7 @@
       "language": "German"
     },
     {
-      "fluency": "Limited Working",
+      "fluency": "Limited Working (A2)",
       "language": "Italian"
     },
     {
