@@ -16,7 +16,7 @@ The bigger the effect, the smaller the sample size. Or in other words, if you ca
 
 The problem is that with EEG signals, the effect size is very small. And a bigger problem is that often the effect size is unknown (as well as the other parameters needed). 
 
-That’s where the Fitted Distribution Monte Carlo (FDMC) method comes in [% cite guttmannflury2019apss]. 
+That’s where the Fitted Distribution Monte Carlo (FDMC) method comes in [% cite guttmannflury2019apss %]. 
 
 Recipe for FDMC:
 1. Collect data from a historical dataset with similar characteristics to what you plan to collect, or run a small-scale propspective power analysis
@@ -79,7 +79,7 @@ By design, Confusion Ellipses make it easy to compare classifiers at a glance. I
 
 When comparing the performance of two (or more) classification algorithms, the key question becomes: do you have enough data to confidently say that one algorithm performs significantly better than another? In other words, what’s the minimum number of trials needed so that, in 95% of cases (with alpha = 0.05), the confidence intervals for each result do not overlap?
 
-This is where the Distance Separation (DS) method comes in [% cite guttmannflury2023thesis]. DS measures the level of separation between the confidence intervals at each sample size. The ratio is negative when the required sample size isn’t reached, zero at the critical sample size, and becomes positive thereafter.
+This is where the Distance Separation (DS) method comes in [% cite guttmannflury2023thesis %]. DS measures the level of separation between the confidence intervals at each sample size. The ratio is negative when the required sample size isn’t reached, zero at the critical sample size, and becomes positive thereafter.
 
 
 <div class="row">
@@ -99,6 +99,9 @@ When the difference in classification accuracy between two algorithms is smaller
 
 ## 🤔 What we don't know (yet) 🤔
 
-### ??
+### What is an acceptable minimum classification accuracy?
+
+Well of course, the higher the better.  However, the acceptable accuracy level depends on the application and the risks involved. For instance, if a BCI controls a car and has a 10% chance of causing a fatal accident, very few would be willing to take that risk.
+On the other hand, if a BCI offers a 60% chance of improving rehabilitation, many patients might find it worthwhile, even if the improvement is modest.
 
 ---
