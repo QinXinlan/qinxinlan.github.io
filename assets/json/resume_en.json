@@ -181,7 +181,7 @@
       "url": "https://www.researchgate.net/publication/332110728_Characterize_Differences_between_Frustration_and_Contentment_to_Analyze_Errors_in_Brain-Computer_Interfaces?_sg=cqcHyPO93QeDOd6dhmQUUxlRR7AK5CEer6t4td4E7MDJvtseTriwWRcpcp8K90i4O0S35eqURIZPkOaTssPE_YZfagBa"
     }
   ], */
-  "skills": [
+/*  "skills": [
   /*  {
       "name": "Research Skills",
       "level": "Advanced",
@@ -191,7 +191,7 @@
       "name": "Interdisciplinary Research",
       "level": "",
       "keywords": []
-    },*/
+    },
     {
       "name": "Mathematics",
       "level": "Advanced",
@@ -221,7 +221,7 @@
       "name": "Mathematical Modeling",
       "level": "",
       "keywords": []
-    },*/
+    },
     {
       "name": "Data Analytics",
       "level": "Advanced",
@@ -271,7 +271,7 @@
       "name": "Topological Data Analysis",
       "level": "",
       "keywords": []
-    },*/
+    },
     {
       "name": "Machine Learning",
       "level": "Advanced",
@@ -316,7 +316,7 @@
       "name": "Computational Neuroscience",
       "level": "",
       "keywords": []
-    },*/
+    },
     {
       "name": "Methodology",
       "level": "Advanced",
@@ -329,8 +329,8 @@
     },
     {
       "name": "Project Management",
-      "level": "",
-      "keywords": []
+      "level": "Intermediate",
+      "keywords": ["Research Planning", "Literature Review", "Research Methodology"]
     },
     {
 /*      "name": "Statistics",
@@ -346,7 +346,7 @@
       "name": "Big Data Analytics",
       "level": "",
       "keywords": []
-    },*/
+    },
     {
       "name": "Artificial Intelligence (AI)",
       "level": "Intermediate",
@@ -361,7 +361,7 @@
       "name": "Neuroscience",
       "level": "",
       "keywords": []
-    },*/
+    },
     {
       "name": "Matlab",
       "level": "Intermediate",
@@ -372,7 +372,7 @@
       "level": "Advanced",
       "keywords": ["Statistical Analysis", "Data Visualization", "Machine Learning"]
     }
-  ],
+  ],*/
   "languages": [
     {
       "fluency": "Professional Working (C2)",
