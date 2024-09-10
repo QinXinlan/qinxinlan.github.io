@@ -1,200 +1,427 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Eva Guttmann-Flury",
-    "label": "Scientist",
+    "label": "PHD Researcher at Shanghai Jiao Tong University",
     "image": "",
-    "email": "eva.guttmann.flury@gmail.com",
+    "email": "eva.flury@gmail.com",
     "phone": "",
-    "_url": "https://george-gca.github.io/multi-language-al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "",
+    "summary": "Deep interest in unraveling the intricacies of the brain through the development of advanced parameterized algorithms based on solid mathematical foundations. Bridging the realm of BCI with my other hobbies (Chinese culture and music) represents a captivating challenge.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
       "countryCode": "US",
-      "region": "California"
+      "address": "China"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "eva-guttmann-flury",
+        "url": "https://www.linkedin.com/in/eva-guttmann-flury/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Shanghai Jiao Tong University",
+      "position": "PHD Researcher",
+      "startDate": "2016-09-30",
+      "endDate": "2023-11-30",
+      "highlights": [],
+      "summary": "Multimodal dataset for Brain-Computer Interface (BCI) application:\n- Large dataset (31 subjects, 63 sessions, >46 hours) combining electroencephalography (EEG), eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms\n- BCI paradigms investigated: Motor Imagery (MI), Motor Execution (ME), Steady-State Visual Evoked Potentials (SSVEP), and P300\n\nAlgorithms design:\n- Innovative and fast Adaptive Blink Correction and De-drifting (ABCD) for EEG pre-processing\n- New dual classifier based on Source Localized Spatio-Temporal (SLST) features and Riemannian geometry, reaching an accuracy of 94%\n\nMeta-analysis and statistical approaches:\n- A priori sample size estimation (both using an online-available dataset and a prospective power analysis)\n- Systematic review (21 studies) for channel selection from source localization \n- Improved quantitative and visual methods for accuracy estimation and confusion matrix representations\n\nPost-stroke rehabilitation:\n- Contributed to a project using TMS and BCI-controlled robotics with >3 health practitioners from Huashan Hospital and 4 subjects",
+      "url": "https://www.linkedin.com/company/27413",
+      "location": "Shanghai City, China"
+    },
+    {
+      "name": "Airbus",
+      "position": "6 month Internship in Process improvement",
+      "startDate": "2013-02-28",
+      "endDate": "2013-08-31",
+      "highlights": [],
+      "summary": "Process improvement study between the European Airbus factories\n            -  Conducting tests on stiffened panels from the wing box structure\n            -  Analyzing complete process and performing statistical data analysis    \n            -  Working in an international context\n\nSkills developed: knowledge acquisition in composite material, communication at different levels of hierarchy, autonomy, statistical analysis, testing methodology\n",
+      "url": "https://www.linkedin.com/company/2734",
+      "location": "Nantes Area, France"
+    },
+    {
+      "name": "The Biorobotics Institute",
+      "position": "3 month Internship in Innovative research",
+      "startDate": "2012-05-31",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "summary": "Specific designed of an underwater robot adapted to electrolocation\n            -  Conduct mechanical analysis of the vehicle and design overview\n            -  Developping dynamic modeling and controlling\n\nSkills developed: knowledge acquisition on electrolocation and on Solidworks, association knowledge (mechanics, electronics, computing), simulation to validate Matlab/Simulink model  \n",
+      "url": "",
+      "location": "Pise, Italie"
+    },
+    {
+      "name": "PSA Peugeot Citroën",
+      "position": "1 month Internship on Assembly line",
+      "startDate": "2011-07-31",
+      "endDate": "2011-07-31",
+      "highlights": [],
+      "summary": "Assembly Line Worker Internship \n\nWorked on eight-hour shifts. This experience gave me resilience and skills in team working. It also gave me a hands-on experience on car motors and an understanding of industry processes.\n",
+      "url": "https://www.linkedin.com/company/260214",
+      "location": "Trémery"
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Shanghai Jiao Tong University",
+      "position": "Teacher",
+      "startDate": "2016-07-31",
+      "endDate": "2017-08-31",
+      "summary": "As part of a partnership between Shanghai Jiatong University and Dongfeng Electric, outstanding Master and PhD students are sent in high schools from remote cities (Yibin in Sichuan, China) to promote academic excellence and encourage high school students for the preparation of their highschool diploma (gaokao), which is extremely important in China.\t\n\nIn July 2016, as part of a group of 5 Master and Phd, I went one week to teach in a highschool in Yibin. It was a very interesting experience, since for most of the Chinese students there, I was the first foreigner they saw in real life.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/27413"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "IMT Atlantique",
+      "area": "Control Engineering and Industrial Information Technology",
+      "studyType": "Master’s Degree - Mines de Nantes",
+      "startDate": "2010-12-31",
+      "endDate": "2013-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Shanghai Jiao Tong University",
+      "area": "Computational Cognitive Neuroscience (Biomechanics)",
+      "studyType": "Doctor of Philosophy (Ph.D.)",
+      "startDate": "2013-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Jacques Decour",
+      "area": "Preparation for national exams to leading French « Grandes Ecoles »",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2007-12-31",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "High school Huairou Hongluosi Zhongxue (北京市怀柔区红螺寺中学)",
+      "area": "First year of high school in a Chinese school",
+      "studyType": "",
+      "startDate": "2004-12-31",
+      "endDate": "2005-12-31",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Foreign Student Award （优秀来华留学生奖学金）",
+      "date": "2016-06-30",
+      "awarder": "Chinese Government Scholarship",
+      "summary": "The Chinese Ministry of Education established this award to further the development of international student education and cultivate more talents with a global mindset. It also aims at encouraging international students in China to improve their performance."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "HSK Level 5: Advanced",
+      "issuer": "Confucius Institute Online",
+      "startDate": "2013-07-31"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "IELTS Level 7.5: good user",
+      "issuer": "British Council",
+      "endDate": "2013-05-31",
+      "startDate": "2011-05-31"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Certification of Italian as a Foreign Language (CILS) Level B1: Intermediate",
+      "issuer": null,
+      "startDate": "2012-07-31"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Channel selection from source localization - A review of four EEG‑based brain–computer interfaces paradigms",
+      "publisher": "Behavior Research Methods",
+      "releaseDate": "2022-07-06",
+      "summary": "Channel selection is a critical part of the classification procedure for multichannel electroencephalogram- (EEG-) based brain-computer interfaces (BCI). An optimized subset of electrodes reduces computational complexity and optimizes accuracy. Different tasks activate different sources in the brain and are characterized by distinctive channels. The goal of the current review is to define a subset of electrodes for each one of four popular BCI paradigms: motor imagery, motor execution, steady-state visual evoked potentials and P300. Twenty-one studies have been reviewed to identify the most significant activations of cortical sources. The relevant EEG sensors are determined from the reported 3D Talairach coordinates. They are scored by their weighted mean Cohen’s d and its confidence interval, providing the magnitude of the corresponding effect size and its statistical significance. Our goal is to create a knowledge-based channel selection framework with a sufficient statistical power. The core channel selection (CCS) could be used as a reference by EEG researchers and would have the advantages of practicality and rapidity, allowing for an easy implementation of semiparametric algorithms.",
+      "url": "https://doi.org/10.3758/s13428-022-01897-2"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A New Algorithm for Blink Correction Adaptive to Inter- and Intra-Subject Variability",
+      "publisher": "Computers in Biology and Medicine",
+      "releaseDate": "2019-09-10",
+      "summary": "Electroencephalographic (EEG) signals are constantly superimposed with biological artifacts. In particular, spontaneous blinks represent a recurrent event that cannot be easily avoided. The main goal of this paper is to present a new algorithm for blink correction (ABC) that is adaptive to inter- and intra-subject variability. The whole process of designing a Brain-Computer Interface (BCI)-based EEG experiment is highlighted. From sample size determination to classification, a mixture of the standardized low-resolution electromagnetic tomography (sLORETA) for source localization and time restriction, followed by Riemannian geometry classifiers is featured. Comparison between ABC and the commonly-used Independent Component Analysis (ICA) for blinks removal shows a net amelioration with ABC. With the same pipeline using uncorrected data as a reference, ABC improves classification by 5.38% in average, whereas ICA deteriorates by −2.67%. Furthermore, while ABC accurately reconstructs blink-free data from simulated data, ICA yields a potential difference up to 200% from the original blink-free signal and an increased variance of 30.42%. Finally, ABC's major advantages are ease of visualization and understanding, low computation load favoring simple real-time implementation, and lack of spatial filtering, which allows for more flexibility during the classification step.",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0010482519303191"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Priori Sample Size Determination for the Number of Subjects in an EEG Experiment",
+      "publisher": "41st International Engineering in Medicine and Biology Conference (IEEE EMBS 2019)",
+      "releaseDate": "2019-07-26",
+      "summary": "This paper represents a first attempt to perform a priori sample size determination from a “historic” Electroencephalography (EEG) dataset. The importance of adequate sample size is firstly highlighted, and evidence is given against the use of normal distribution for such computations when the data cannot be assumed to be Gaussian. The “historic” dataset is then thoroughly examined to determine the least less likely underlying distribution for the desired phenomenon, in this case, the spontaneous blinks potential. Two Monte Carlo simulations, using different distribution assumptions, are subsequently computed to estimate the a priori minimum sample size. Finally, these choices are discussed considering practical limitations, as well as the computational differences for other phenomena to study. ",
+      "url": "https://www.researchgate.net/publication/333045167_A_Priori_Sample_Size_Determination_for_the_Number_of_Subjects_in_an_EEG_Experiment"
+    },
+    {
+      "name": "Preliminary Results on a New Algorithm for Blink Correction Adaptive to Inter- and Intra-Subject Variability",
+      "publisher": "9th International IEEE EMBS Conference on Neural Engineering",
+      "releaseDate": "2019-03-22",
+      "summary": "This paper presents a new preprocessing method to correct blinking artifacts in Electroencephalography (EEG) based Brain-Computer Interfaces (BCIs). This Algorithm for Blink Correction (ABC) directly corrects the signal in the time domain without the need for additional Electrooculogram (EOG) electrodes. The main idea is to automatically adapt to the blink's inter-and intra-subject variability by considering the blink's amplitude as a parameter. A simple Minimum Distance to Riemannian Mean (MDRM) is applied as the classification algorithm. Preliminary results on three subjects show a mean classification accuracy increase of 13.7% using ABC.",
+      "url": "https://www.researchgate.net/publication/332110737_Preliminary_Results_on_a_New_Algorithm_for_Blink_Correction_Adaptive_to_Inter-_and_Intra-Subject_Variability"
+    },
+    {
+      "name": "Preliminary Results on a new Algorithm for Blink Correction Adaptative to Blinks",
+      "publisher": "The 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EM",
+      "releaseDate": "2016-08-19",
+      "summary": "Correction of artifacts from Electroencephalographic (EEG) recordings is a preponderant step in brainwave activity analysis. A new Algorithm for Blink Correction (ABC) is here presented, that adapts to the blink’s inter-subject and intra-subject variability by considering the blink’s amplitude as a parameter. To our knowledge, it is the first time that such an adaptive method aimed at blink correction is designed. Existing methods for the correction of ocular artifacts are mostly based on the assumption of a component model, such as Independent Component Analysis (ICA). The results of two ICA-based methods are compared to ABC while using a free-blink EEG to which are added models of different amplitudes of blinks.\n",
+      "url": "https://www.researchgate.net/publication/333045586_Preliminary_Results_on_a_New_Algorithm_for_Blink_Correction_Adaptive_to_Blinks%27_Inter-_and_Intra-Subject_Variability"
+    },
+    {
+      "name": "Characterize Differences between Frustration and Contentment to Analyze Errors in Brain-Computer Interfaces",
+      "publisher": "7th International IEEE EMBS Neural Engineering Conference",
+      "releaseDate": "2015-04-23",
+      "summary": "Current Brain-Computer Interfaces mostly use P300, Visual Evoked Potential, Slow Cortical Potential or Sensorimotor rhythms as control signals to provide a new non-muscular channel for communication and control to the external world. However, the recorded EEG signals are still weak, hard to acquire and of poor quality. These limitations result in an incompatible accuracy rate with real-life applications. To decrease the error rate while bounding the rate of false positives on a single-trial analysis, the subject’s frustration can be used as a neuro-feedback to detect errors. In this study, we try to characterize differences between frustration and contentment as a way to detect errors in order to enhance the accuracy rate and the usability of the P300 speller.",
+      "url": "https://www.researchgate.net/publication/332110728_Characterize_Differences_between_Frustration_and_Contentment_to_Analyze_Errors_in_Brain-Computer_Interfaces?_sg=cqcHyPO93QeDOd6dhmQUUxlRR7AK5CEer6t4td4E7MDJvtseTriwWRcpcp8K90i4O0S35eqURIZPkOaTssPE_YZfagBa"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Research Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interdisciplinary Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mathematics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Knowledge Acquisition",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Chinese",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Simulations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mathematical Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Signal Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Datasets",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytical Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Deep Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SolidWorks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unity",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Topological Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cognitive Neuroscience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistical Modeling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computational Neuroscience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Methodology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Algorithms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Big Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Intelligence (AI)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "STEM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Neuroscience",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Professional Working",
+      "language": "Chinese"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Full Professional",
+      "language": "English"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Native Speaker",
+      "language": "French"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "German"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Italian"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Russian"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Spanish"
     }
   ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Rehabilitation in Huashan Hospital, Shanghai (China)",
+      "startDate": "2015-09-30",
+      "summary": "As part of a partnership between Shanghai Jiaotong University and Huashan Hospital, our Brain-Computer Interface laboratory carries on rehabilitation improvement analysis on stroke patients. Our group consists of 7 Masters and PhD, that alternates the patients treatment and the setting up of the needed equipment.\n\nThis project is still on going, but preliminary results tend to show an improvement of the rehabilitation process.",
+      "url": null
+    },
+    {
+      "name": "Les Ambulances de l'Espoir, Humanitarian Project",
+      "startDate": "2011-05-31",
+      "summary": "\"Les Ambulances de l'Espoir\" is a humanitarian project aiming at collecting old ambulances in Loire-Atlantique (French region) in order to give them to countries in need of health equipments and first aids.\n\nOur mission focused on:\n- Centralizing and data analyzing on the identification of the given vehicles as well as redacting the International vehicle transport files\n- Contacting and establishing good working relations with ambulance sponsors, benefactors acting as intermidiaires (Lions Clubs) and humanitarian associations for the vehicle transport\n- Developing of a communication strategy to increase awareness\n- Organizing of the official ambulance handover to the humanitarian associations (held the 29th of September 2011)\n\nmore information on:\nhttp://les-ambulances-de-l-espoir.weebly.com/",
+      "url": "https://www.facebook.com/notes/%C3%A9cole-des-mines-de-nantes/remise-des-ambulances-de-lespoir-/10150844823675433",
+      "endDate": "2011-06-30"
     }
-  ]
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
